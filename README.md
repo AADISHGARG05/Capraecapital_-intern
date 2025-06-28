@@ -43,7 +43,7 @@ For investment firms, recruiters, or growth teams to source verified email conta
 ---
 
 ## 📂 File Structure
-├── leadgen_scraper.py # Main Python scraping script
+├── Code.py # Main Python scraping script
 ├── leads.csv # Output file with scraped emails (generated after run)
 ├── README.md # This file
 ├── Caprae_Report.md # 1-page report explaining design & reasoning
@@ -53,7 +53,9 @@ For investment firms, recruiters, or growth teams to source verified email conta
 
 ### 1. Setup
 Make sure you have Python 3 installed.
+Run the uploaded py file.
 Install the required libraries:
 ```bash
 pip install requests beautifulsoup4 pandas googlesearch-python fake-useragent
+
 
